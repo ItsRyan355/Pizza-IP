@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarina&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Sheppards&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+/*  */
+
+
+/*  */
+
+nav {
+    justify-content: space-between;
+    display: flex;
+    height: 60px;
+}
+
+nav ul li {
+    padding-right: 40px;
+    display: inline-block;
+    justify-content: space-between;
+    padding-top: 20px;
+}
