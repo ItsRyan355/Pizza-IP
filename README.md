@@ -9,8 +9,10 @@
 ## SETUP INSTRUCTIONS : When you click the order button, your order will be queued and your price will be dispalyed.
 #
 ## TECHNOLOGIES USED : The folowing were used;Bootstrap, CSS and Javascript.
-Here is a link to my workspace: https://github.com/ItsRyan355/Pizza-IP
-CONTACT INFORMATION : thisisryan35@gmail.com
+#
+## Here is a link to my workspace: https://github.com/ItsRyan355/Pizza-IP
+#
+## CONTACT INFORMATION : thisisryan35@gmail.com
 MIT License
 Copyright (c) [2021] [Ryan munene]
 
