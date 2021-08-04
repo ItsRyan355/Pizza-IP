@@ -1,10 +1,14 @@
-PIZZA-IP
-AUTHOR : Ryan Munene
-PROJECT DESCRIPTION : This project is about a simulated naming system that allows one to input data based on his or her birth credentials as for the system to calculate a supposed name entry and provide the name to the latter.
-AUTHOR INFORMATION : My name is Ryan Munene and I am aspiring poineer. I am cuurently basing myself on web development and also I am growing as a software developer.
-SETUP INSTRUCTIONS : When you click the sub it button, your information will be uploaded into the system.
-BDD : Given that you have entered your birth credentials and your gender into the system, hit the 'submit' button then your information will be processed and you will recieve an output displaying you name.
-TECHNOLOGIES USED : The folowing were used;Bootstrap, CSS and Javascript.
+# PIZZA-IP
+
+## AUTHOR : Ryan Munene
+#
+## PROJECT DESCRIPTION : This project is about a pizza delivery site that allows one to place an order .
+#
+## AUTHOR INFORMATION : My name is Ryan Munene and I am aspiring poineer. I am cuurently basing myself on web development and also I am growing as a software developer.
+#
+## SETUP INSTRUCTIONS : When you click the order button, your order will be queued and your price will be dispalyed.
+#
+## TECHNOLOGIES USED : The folowing were used;Bootstrap, CSS and Javascript.
 Here is a link to my workspace: https://github.com/ItsRyan355/Pizza-IP
 CONTACT INFORMATION : thisisryan35@gmail.com
 MIT License
